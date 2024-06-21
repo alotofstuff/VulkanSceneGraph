@@ -59,7 +59,9 @@ extern "C"
     extern VSG_DECLSPEC int vsgBuiltAsSharedLibrary();
 
 #ifdef __cplusplus
+
 }
+
 #endif
 
 #ifdef __cplusplus
